@@ -20,3 +20,10 @@
 ![image](https://user-images.githubusercontent.com/53707586/212545851-949d5826-82dc-47f7-b18a-e476819633af.png)
 
 Подсказка: для возведения чисел в степень в Java изучите и используйте команду `Math.pow`.
+
+# Ответ (фото)
+![image]![1 год](https://github.com/QvvQV/Task_04_Credit/assets/131390208/0f1edc55-8607-4168-bcee-7ca4abde6f4e)
+
+![image]![2 года](https://github.com/QvvQV/Task_04_Credit/assets/131390208/a1fe9ba6-0cc2-4319-87b1-60d018aab061)
+
+![image]![3 года](https://github.com/QvvQV/Task_04_Credit/assets/131390208/8e284b06-6c48-4f4e-8cb9-194526beb4b2)
